@@ -1,0 +1,746 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5556,
+                    -19.0932
+                ]
+            },
+            "properties": {
+                "id": "marker0",
+                "type": "water-sources",
+                "icon": "💧",
+                "x": 1322.14,
+                "y": 447.03,
+                "name": "Orchozori Healing Spring",
+                "legend": "This legendary water source is whispered about in ancient tales and believed to possess mystical properties. The spring emanates crystal-clear water, shimmering with an otherworldly iridescence that sparkles even in the dimmest light."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1674,
+                    -19.1739
+                ]
+            },
+            "properties": {
+                "id": "marker1",
+                "type": "mines",
+                "icon": "⛏️",
+                "x": 922.46,
+                "y": 447.99,
+                "name": "Biaroszent — silver mining town",
+                "legend": "Biaroszent is a mining town of 1637 people just nearby the silver mine."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7722,
+                    -29.0972
+                ]
+            },
+            "properties": {
+                "id": "marker2",
+                "type": "bridges",
+                "icon": "🌉",
+                "x": 1277.3,
+                "y": 565.99,
+                "name": "Chevray Bridge",
+                "legend": "An old crossing of the Neuranneaury River, rarely used since its collapse during the flood."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34.6359,
+                    -45.5387
+                ]
+            },
+            "properties": {
+                "id": "marker3",
+                "type": "inns",
+                "icon": "🍻",
+                "x": 549.5,
+                "y": 761.5,
+                "name": "The Black Antelope",
+                "legend": "A big and famous roadside inn. Delicious flame-broiled pig ears with black whisky is served here."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1215,
+                    -50.9628
+                ]
+            },
+            "properties": {
+                "id": "marker4",
+                "type": "inns",
+                "icon": "🍻",
+                "x": 961.44,
+                "y": 826,
+                "name": "The Peaceful Falcon",
+                "legend": "A big and famous roadside inn. Delicious jugged carrot with shiny wine is served here."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.8009,
+                    -38.3023
+                ]
+            },
+            "properties": {
+                "id": "marker5",
+                "type": "lighthouses",
+                "icon": "🚨",
+                "x": 263.1,
+                "y": 675.45,
+                "name": "Lauch Lighthouse",
+                "legend": "A lighthouse to serve as a beacon for ships in the open sea."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0366,
+                    -55.8387
+                ]
+            },
+            "properties": {
+                "id": "marker6",
+                "type": "lighthouses",
+                "icon": "🚨",
+                "x": 1067.1,
+                "y": 883.98,
+                "name": "Trodinese Lighthouse",
+                "legend": "A lighthouse to serve as a beacon for ships in the open sea."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6072,
+                    -40.3542
+                ]
+            },
+            "properties": {
+                "id": "marker7",
+                "type": "lighthouses",
+                "icon": "🚨",
+                "x": 1310.9,
+                "y": 699.85,
+                "name": "Vancesnoy Lighthouse",
+                "legend": "A lighthouse to serve as a beacon for ships in the open sea."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -32.033,
+                    -37.9701
+                ]
+            },
+            "properties": {
+                "id": "marker8",
+                "type": "battlefields",
+                "icon": "⚔️",
+                "x": 580.35,
+                "y": 671.5,
+                "name": "Keruna Battlefield",
+                "legend": "A historical battle of the Triters Rebellion. \r\nDate: March 10, 222 Skiping Era."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.5817,
+                    -23.2719
+                ]
+            },
+            "properties": {
+                "id": "marker9",
+                "type": "battlefields",
+                "icon": "⚔️",
+                "x": 656.81,
+                "y": 496.72,
+                "name": "Takocsi Battlefield",
+                "legend": "A historical battle of the Envog Crusade. \r\nDate: September 6, 248 Skiping Era."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0789,
+                    -26.2539
+                ]
+            },
+            "properties": {
+                "id": "marker10",
+                "type": "battlefields",
+                "icon": "⚔️",
+                "x": 1186.12,
+                "y": 532.18,
+                "name": "Ihaikunia Battlefield",
+                "legend": "A historical battle of the Lasian Invasion. \r\nDate: July 22, 257 Skiping Era."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5068,
+                    -5.5269
+                ]
+            },
+            "properties": {
+                "id": "marker11",
+                "type": "dungeons",
+                "icon": "🗝️",
+                "x": 1309.71,
+                "y": 285.71,
+                "name": "Dungeon",
+                "legend": "<div>Undiscovered dungeon. See <a href=\"https://watabou.github.io/one-page-dungeon/?seed=879306570265\" target=\"_blank\">One page dungeon</a></div><iframe style=\"pointer-events: none;\" src=\"https://watabou.github.io/one-page-dungeon/?seed=879306570265\" sandbox=\"allow-scripts allow-same-origin\"></iframe>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9313,
+                    -46.7581
+                ]
+            },
+            "properties": {
+                "id": "marker12",
+                "type": "dungeons",
+                "icon": "🗝️",
+                "x": 1243.63,
+                "y": 776,
+                "name": "Dungeon",
+                "legend": "<div>Undiscovered dungeon. See <a href=\"https://watabou.github.io/one-page-dungeon/?seed=8793065703686\" target=\"_blank\">One page dungeon</a></div><iframe style=\"pointer-events: none;\" src=\"https://watabou.github.io/one-page-dungeon/?seed=8793065703686\" sandbox=\"allow-scripts allow-same-origin\"></iframe>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.564,
+                    -43.9114
+                ]
+            },
+            "properties": {
+                "id": "marker13",
+                "type": "lake-monsters",
+                "icon": "🐉",
+                "x": 1132.61,
+                "y": 742.15,
+                "name": "Poten Monster",
+                "legend": "Journeying folk say a relic monster of 16 m long inhabits Poten Lake. Truth or lie, folks are afraid to fish in the lake."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.5619,
+                    -24.6233
+                ]
+            },
+            "properties": {
+                "id": "marker14",
+                "type": "sea-monsters",
+                "icon": "🦑",
+                "x": 1417.03,
+                "y": 512.79,
+                "name": "Malney Monster",
+                "legend": "Old sailors tell stories of a gigantic sea monster inhabiting these dangerous waters. Rumors say it can be 29 m long."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6728,
+                    -7.1491
+                ]
+            },
+            "properties": {
+                "id": "marker15",
+                "type": "sacred-forests",
+                "icon": "🌳",
+                "x": 1133.9,
+                "y": 305,
+                "name": "Sobriro Forest",
+                "legend": "A forest sacred to local Portuzian Beliefs."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.1428,
+                    -35.6827
+                ]
+            },
+            "properties": {
+                "id": "marker16",
+                "type": "sacred-forests",
+                "icon": "🌳",
+                "x": 270.9,
+                "y": 644.3,
+                "name": "Einauben Forest",
+                "legend": "A forest sacred to local Witnauberg Religion."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5593,
+                    -49.1203
+                ]
+            },
+            "properties": {
+                "id": "marker17",
+                "type": "brigands",
+                "icon": "💰",
+                "x": 941.52,
+                "y": 804.09,
+                "name": "Slenevervi Ravens",
+                "legend": "A gang of forest highwaymen."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4614,
+                    -50.227
+                ]
+            },
+            "properties": {
+                "id": "marker18",
+                "type": "brigands",
+                "icon": "💰",
+                "x": 883.42,
+                "y": 817.25,
+                "name": "Okurfika Dogs",
+                "legend": "A gang of forest brigands."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7234,
+                    -44.765
+                ]
+            },
+            "properties": {
+                "id": "marker19",
+                "type": "pirates",
+                "icon": "🏴‍☠️",
+                "x": 1134.5,
+                "y": 752.3,
+                "name": "Pirates",
+                "legend": "Pirate ships have been spotted in these waters."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37.9814,
+                    -4.9609
+                ]
+            },
+            "properties": {
+                "id": "marker20",
+                "type": "pirates",
+                "icon": "🏴‍☠️",
+                "x": 509.85,
+                "y": 278.98,
+                "name": "Pirates",
+                "legend": "Pirate ships have been spotted in these waters."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.73,
+                    -34.5533
+                ]
+            },
+            "properties": {
+                "id": "marker21",
+                "type": "statues",
+                "icon": "🗿",
+                "x": 832.83,
+                "y": 630.87,
+                "name": "Biapudany Monolith",
+                "legend": "An ancient monolith. It has an inscription, but no one can translate it:\n        <div style=\"font-size: 1.8em; line-break: anywhere;\">\udc0d\udc1b\ud802\ud802\ud802 \ud802\ud802\ud802𐠓\ud802𐠱\udc03\udc37\udc1f\udc16\udc10𐠎\udc33\ud802\ud802\ud802\ud802\ud802𐠜𐠲\udc32𐠜\udc05\ud802\ud802𐠝\udc05𐠴\udc14𐠧\udc1c\udc2a\udc1b\udc33\udc1f𐠥\ud802𐠖\udc31𐠃𐠬\udc14𐠒𐠟\udc26\udc0a\ud802\ud802 𐠚𐠎\udc2f𐠛𐠙𐠴\udc03\udc2c\ud802𐠼𐠞\udc1f\udc20𐠕\udc0b𐠜\udc22𐠷\ud802</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8187,
+                    -48.7368
+                ]
+            },
+            "properties": {
+                "id": "marker22",
+                "type": "statues",
+                "icon": "🗿",
+                "x": 843.63,
+                "y": 799.53,
+                "name": "Kiszentlo Pillar",
+                "legend": "An ancient pillar. It has an inscription, but no one can translate it:\n        <div style=\"font-size: 1.8em; line-break: anywhere;\">\ud802\ud802𐠂\udc16\udc1e\udc19\ud802𐠣𐠴𐠔𐠚\udc15\udc01 \udc2c\udc11\ud802\ud802\ud802𐠮\udc12\ud802\ud802  \udc0e\ud802\ud802 \udc10\udc2e𐠰\ud802\ud802\ud802\ud802𐠍 \udc24𐠧\ud802\ud802\ud802 \ud802\ud802\ud802𐠍\ud802𐠧\ud802𐠮\ud802𐠫\udc1a𐠏 \udc0d\udc11𐠘\udc2d\udc2b\udc24\ud802𐠑\udc27\udc37\udc32𐠢\udc24𐠬\ud802\ud802</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36.2981,
+                    -32.9967
+                ]
+            },
+            "properties": {
+                "id": "marker23",
+                "type": "statues",
+                "icon": "🗿",
+                "x": 529.8,
+                "y": 612.36,
+                "name": "Eskuevits Column",
+                "legend": "An ancient column. It has an inscription, but no one can translate it:\n        <div style=\"font-size: 1.8em; line-break: anywhere;\">༳༩༾༹༴༣༂༙༲༱༡༉༼༼༔༜༆༲༣༜༆༵༤༸༁༸༫༩༨༗༺༫༶༐༴༖༔༉༚༔༸༃༓༗༡༤༡༑༢༚༪༜༓༶༷༙༘༘༽༺༸༯༁༰༢༽༪༺༱༗༭༴༗༂༄༖༭༅༌༼༃༫༓༿༚༿༖༑༽༳༯་༳༴༯༂༌༪</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.7649,
+                    -42.5617
+                ]
+            },
+            "properties": {
+                "id": "marker24",
+                "type": "ruins",
+                "icon": "🏺",
+                "x": 796.86,
+                "y": 726.1,
+                "name": "Ruined Stronghold",
+                "legend": "Ruins of an ancient stronghold. Untold riches may lie within."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6868,
+                    -10.3128
+                ]
+            },
+            "properties": {
+                "id": "marker25",
+                "type": "ruins",
+                "icon": "🏺",
+                "x": 968.14,
+                "y": 342.62,
+                "name": "Ruined Fortification",
+                "legend": "Ruins of an ancient fortification. Untold riches may lie within."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5292,
+                    -23.3703
+                ]
+            },
+            "properties": {
+                "id": "marker26",
+                "type": "ruins",
+                "icon": "🏺",
+                "x": 906.32,
+                "y": 497.89,
+                "name": "Ruined Fortification",
+                "legend": "Ruins of an ancient fortification. Untold riches may lie within."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33.5289,
+                    -43.4312
+                ]
+            },
+            "properties": {
+                "id": "marker27",
+                "type": "libraries",
+                "icon": "📚",
+                "x": 562.62,
+                "y": 736.44,
+                "name": "Pioltti Collection",
+                "legend": "A vast collection of knowledge, including many rare and ancient tomes."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -30.5007,
+                    -47.2618
+                ]
+            },
+            "properties": {
+                "id": "marker28",
+                "type": "circuses",
+                "icon": "🎪",
+                "x": 598.51,
+                "y": 781.99,
+                "name": "Travelling Wonderous Circus",
+                "legend": "Roll up, roll up, this wonderous circus is here for a limited time only."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33.075,
+                    -17.4087
+                ]
+            },
+            "properties": {
+                "id": "marker29",
+                "type": "jousts",
+                "icon": "🤺",
+                "x": 568,
+                "y": 427,
+                "name": "Eja Contest",
+                "legend": "Warriors from around the land gather for a contest of cunning in Eja, with fame, fortune and favour on offer to the victor."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6618,
+                    -44.2655
+                ]
+            },
+            "properties": {
+                "id": "marker30",
+                "type": "fairs",
+                "icon": "🎠",
+                "x": 1204.88,
+                "y": 746.36,
+                "name": "Hokiny Fair",
+                "legend": "A fair is being held in Hokiny, with all manner of local and foreign goods and services on offer."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0657,
+                    -28.0838
+                ]
+            },
+            "properties": {
+                "id": "marker31",
+                "type": "migration",
+                "icon": "🐗",
+                "x": 437.74,
+                "y": 553.94,
+                "name": "Rooks migration",
+                "legend": "A huge group of rooks are migrating, whether part of their annual routine, or something more extraordinary."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8276,
+                    -27.0209
+                ]
+            },
+            "properties": {
+                "id": "marker32",
+                "type": "necropolises",
+                "icon": "🪦",
+                "x": 938.34,
+                "y": 541.3,
+                "name": "Delekloszany Tomb",
+                "legend": "A labyrinthine necropolis where each step echoes with haunting murmurs. The walls are adorned with ancient runes, and restless spirits guide or hinder those who dare to delve into its depths"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2959,
+                    -42.1875
+                ]
+            },
+            "properties": {
+                "id": "marker33",
+                "type": "encounters",
+                "icon": "🧙",
+                "x": 1046.47,
+                "y": 721.65,
+                "name": "Random encounter",
+                "legend": "<div>You have encountered a character.</div><iframe src=\"https://deorum.vercel.app/encounter/3260\" width=\"375\" height=\"600\" sandbox=\"allow-scripts allow-same-origin allow-popups\"></iframe>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.837,
+                    -29.0837
+                ]
+            },
+            "properties": {
+                "id": "marker34",
+                "type": "encounters",
+                "icon": "🧙",
+                "x": 1289.92,
+                "y": 565.83,
+                "name": "Random encounter",
+                "legend": "<div>You have encountered a character.</div><iframe src=\"https://deorum.vercel.app/encounter/2099\" width=\"375\" height=\"600\" sandbox=\"allow-scripts allow-same-origin allow-popups\"></iframe>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0661,
+                    -39.5427
+                ]
+            },
+            "properties": {
+                "id": "marker35",
+                "type": "encounters",
+                "icon": "🧙",
+                "x": 1387.45,
+                "y": 690.2,
+                "name": "Random encounter",
+                "legend": "<div>You have encountered a character.</div><iframe src=\"https://deorum.vercel.app/encounter/3080\" width=\"375\" height=\"600\" sandbox=\"allow-scripts allow-same-origin allow-popups\"></iframe>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.954,
+                    -28.4522
+                ]
+            },
+            "properties": {
+                "id": "marker36",
+                "type": "encounters",
+                "icon": "🧙",
+                "x": 1054.27,
+                "y": 558.32,
+                "name": "Random encounter",
+                "legend": "<div>You have encountered a character.</div><iframe src=\"https://deorum.vercel.app/encounter/2082\" width=\"375\" height=\"600\" sandbox=\"allow-scripts allow-same-origin allow-popups\"></iframe>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.695,
+                    -41.8914
+                ]
+            },
+            "properties": {
+                "id": "marker37",
+                "type": "encounters",
+                "icon": "🧙",
+                "x": 679.17,
+                "y": 718.13,
+                "name": "Random encounter",
+                "legend": "<div>You have encountered a character.</div><iframe src=\"https://deorum.vercel.app/encounter/3233\" width=\"375\" height=\"600\" sandbox=\"allow-scripts allow-same-origin allow-popups\"></iframe>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5556,
+                    -46.4755
+                ]
+            },
+            "properties": {
+                "id": "marker38",
+                "type": "encounters",
+                "icon": "🧙",
+                "x": 1061.4,
+                "y": 772.64,
+                "name": "Random encounter",
+                "legend": "<div>You have encountered a character.</div><iframe src=\"https://deorum.vercel.app/encounter/3671\" width=\"375\" height=\"600\" sandbox=\"allow-scripts allow-same-origin allow-popups\"></iframe>"
+            }
+        }
+    ]
+}
