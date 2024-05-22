@@ -6,6 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
+    "demo": "git clone https://github.com/LeGitHubDeTai/Map_Display_Tiles ./static/map/tiles/tmp && mv ./static/map/tiles/tmp/* ./static/map/tiles/ && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
