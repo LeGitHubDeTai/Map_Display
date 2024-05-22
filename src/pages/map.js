@@ -17,7 +17,9 @@ export default function MapViewer() {
 
     if(isBrowser){
         const { MapContainer, TileLayer, GeoJSON, LayersControl, MinimapControl } = require('react-leaflet');
-
+        
+        require('leaflet-defaulticon-compatibility');
+        
         const Markers = require('@site/static/map/Markers.json');
         const Rivers = require('@site/static/map/Rivers.json');
         const Routes = require('@site/static/map/Routes.json');
