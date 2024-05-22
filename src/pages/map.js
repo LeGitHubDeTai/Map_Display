@@ -21,7 +21,7 @@ const MapView = () => {
     return (
         <MapContainer center={[0, 0]} zoom={13} style={{ height: "100vh" }}>
             <TileLayer
-                url="./map/tiles/{z}/{x}_{y}.jpg"
+                url="/map/tiles/{z}/{x}_{y}.png"
                 attribution='&copy; <a href="https://taistudio.fr/">Tai Studio</a>'
             />
             <LayersControl position="topright">
